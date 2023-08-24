@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:GR_Audio_Splitter-cache
+LIBS:GR_Audio_Share-cache
 EELAYER 29 0
 EELAYER END
 $Descr A 11000 8500
